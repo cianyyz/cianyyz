@@ -8,6 +8,7 @@
 <img align="left" alt="Python" width="80px" src = "https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" title="Python"/> 
 <img align="left" alt="Node.js" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Node.js"/>
 <img align="left" alt="Selenium" width="80px" src = "https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" title="Selenium"/> 
+<img align-"left" alt="Rust-lang" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/220px-Rust_programming_language_black_logo.svg.png" title="Rust" />
 <img align="left" alt="Firebase" height ="80px" src = "https://firebase.google.com/images/brand-guidelines/logo-standard.png" title="Firebase"/>
 <br />
 <br />
